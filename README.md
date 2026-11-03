@@ -35,7 +35,3 @@ The data were retrieved from LSEG Datastream and Worldscope through the Excel ad
 ## Requirements
 
 Python 3 with the packages listed in `requirements.txt` (pandas, NumPy, openpyxl, scikit-learn, LightGBM, PyTorch, matplotlib), all available by default in Google Colab.
-
-## Citation
-
-Distefano, F. (2026). *Machine Learning and Empirical Asset Pricing in Eurozone Equity Markets: A Predictive and Interpretability Analysis*. MSc thesis, University of Siena.

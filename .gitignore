@@ -1,0 +1,17 @@
+# Data (licensed, not distributed)
+data/
+*.xlsx
+*.parquet
+*.csv
+
+# Outputs
+*_checkpoints/
+figures_ch4/
+figures_ch5/
+tables_ch4/
+tables_ch5/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
